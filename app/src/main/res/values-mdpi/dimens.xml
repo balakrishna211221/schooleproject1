@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="loginlogotopmargin">25dp</dimen>
+    <dimen name="logo">100dp</dimen>
+    <dimen name="logincardview">350</dimen>
+    <dimen name="login_inputs_userid_margintop">15</dimen>
+    <dimen name="cardview_Padding">10</dimen>
+</resources>
